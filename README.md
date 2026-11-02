@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090817,45:24105A,100:087EAA&text=HARIOM%20SHARAN&fontColor=EAFBFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=15&animation=fadeIn" width="100%" alt="Hariom Sharan — developer profile header" />
 
-<img src="assets/developer-mascot.svg" width="430" alt="Original futuristic developer robot mascot in cyan, blue and purple" />
+<img src="/developer-mascot.svg" width="430" alt="Original futuristic developer robot mascot in cyan, blue and purple" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=850&color=55EFFF&center=true&vCenter=true&width=700&lines=Building+digital+experiences+with+purpose.;Exploring+AI%2C+Machine+Learning+%26+Automation.;Turning+ideas+into+practical+technology+solutions." alt="Animated developer introduction" /></a>
 
