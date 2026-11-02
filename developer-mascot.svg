@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760" role="img" aria-labelledby="title">
+<title id="title">Futuristic developer robot mascot</title>
+<defs>
+ <linearGradient id="bg"><stop stop-color="#090817"/><stop offset=".55" stop-color="#17113b"/><stop offset="1" stop-color="#061c32"/></linearGradient>
+ <linearGradient id="metal" x2="1" y2="1"><stop stop-color="#e6faff"/><stop offset=".45" stop-color="#53659a"/><stop offset="1" stop-color="#171c3e"/></linearGradient>
+ <linearGradient id="purple" x2="1" y2="1"><stop stop-color="#b05cff"/><stop offset=".5" stop-color="#5b42d6"/><stop offset="1" stop-color="#172c70"/></linearGradient>
+ <linearGradient id="cyan" x2="1" y2="1"><stop stop-color="#d7ffff"/><stop offset=".5" stop-color="#43f4ff"/><stop offset="1" stop-color="#1684e8"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#25eaff" stop-opacity=".4"/><stop offset="1" stop-color="#25eaff" stop-opacity="0"/></radialGradient>
+ <filter id="shine"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="760" rx="38" fill="url(#bg)"/><circle cx="450" cy="360" r="330" fill="url(#glow)"/>
+<g fill="none" stroke="#5bceff" opacity=".45"><ellipse cx="450" cy="380" rx="365" ry="150" transform="rotate(-24 450 380)" stroke-width="2"/><ellipse cx="450" cy="380" rx="330" ry="205" transform="rotate(28 450 380)" stroke-dasharray="8 13"/></g>
+<g fill="#7befff"><circle cx="130" cy="210" r="4"/><circle cx="755" cy="175" r="3"/><circle cx="730" cy="550" r="5"/></g>
+<g font-family="monospace" font-weight="bold"><g transform="translate(115 300) rotate(-12)"><rect width="112" height="70" rx="15" fill="#171b42" stroke="#4feeff" stroke-width="2"/><text x="56" y="45" text-anchor="middle" font-size="28" fill="#64f5ff">&lt;/&gt;</text></g><g transform="translate(670 285) rotate(11)"><rect width="112" height="70" rx="15" fill="#211744" stroke="#a66aff" stroke-width="2"/><text x="56" y="45" text-anchor="middle" font-size="27" fill="#d4a2ff">{ AI }</text></g></g>
+<path d="M450 112 V75" stroke="#91faff" stroke-width="9" stroke-linecap="round"/><circle cx="450" cy="62" r="17" fill="#42edff" filter="url(#shine)"/>
+<path d="M290 220 Q290 165 350 150 Q450 120 550 150 Q610 165 610 220 L600 390 Q590 445 530 455 L370 455 Q310 445 300 390Z" fill="url(#metal)" stroke="#a6dfff" stroke-width="5"/>
+<path d="M315 228 Q450 170 585 228 L575 365 Q450 420 325 365Z" fill="#101a3a" stroke="#607fc6" stroke-width="5"/>
+<rect x="260" y="265" width="48" height="112" rx="18" fill="url(#purple)" stroke="#91faff" stroke-width="4"/><rect x="592" y="265" width="48" height="112" rx="18" fill="url(#purple)" stroke="#91faff" stroke-width="4"/>
+<g filter="url(#shine)" fill="url(#cyan)"><path d="M355 280 Q390 245 425 280 L425 315 Q390 340 355 315Z"/><path d="M475 280 Q510 245 545 280 L545 315 Q510 340 475 315Z"/></g>
+<path d="M410 365 Q450 388 490 365" fill="none" stroke="#8cfaff" stroke-width="7" stroke-linecap="round"/>
+<path d="M405 445 V480 H495 V445" fill="url(#purple)" stroke="#a7eaff" stroke-width="4"/>
+<path d="M310 500 Q450 445 590 500 L625 680 Q450 730 275 680Z" fill="url(#metal)" stroke="#91dfff" stroke-width="5"/>
+<path d="M345 520 Q450 490 555 520 L570 640 Q450 680 330 640Z" fill="#111c40" stroke="#687ec5" stroke-width="4"/>
+<path d="M390 550 L450 525 L510 550 L510 615 L450 642 L390 615Z" fill="url(#purple)" stroke="#5af3ff" stroke-width="4"/>
+<path d="M420 576 L445 600 L485 562" fill="none" stroke="#9affff" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M310 520 Q255 545 235 620 M590 520 Q645 545 665 620" fill="none" stroke="url(#metal)" stroke-width="42" stroke-linecap="round"/>
+<circle cx="232" cy="631" r="27" fill="url(#purple)" stroke="#8af7ff" stroke-width="4"/><circle cx="668" cy="631" r="27" fill="url(#purple)" stroke="#8af7ff" stroke-width="4"/>
+<text x="450" y="730" fill="#a8eaff" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" text-anchor="middle">BUILD • LEARN • INNOVATE</text>
+</svg>
